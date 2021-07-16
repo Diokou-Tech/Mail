@@ -1,5 +1,5 @@
 <?php
-
+//edit 
 // phpinfo();
 $Name = "Da Duder"; //senders name
 $email = "diokoucheikhou@gmail.com"; //senders e-mail adress
